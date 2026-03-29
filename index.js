@@ -11,7 +11,7 @@ function startBot() {
   const bot = bedrock.createClient({
     host: "Asnhuaswal.aternos.me", // Your Aternos IP
     port: 56898,                    // Your Aternos Port
-    username: "AFK_BOT",            // Bot username
+    username: "Advik_bot",            // Bot username
     offline: true,                  // Offline mode
     version: "1.26.0"               // Force server version
   });
